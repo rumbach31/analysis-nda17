@@ -1,0 +1,6 @@
+
+
+Study filter has been applied:
+Time applied:12/10/2018 17:21:19
+Number of distinct subjects in single filter:4521
+Study(s):576
